@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-quantum-link-orchestrator-scale-gyz",
+  "version": "1.0.0",
+  "description": "AI-powered infrastructure component for modern applications",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "quantum-link-orchestrator-scale-gyz"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-quantum-link-orchestrator-scale-gyz.git"
+  }
+}
